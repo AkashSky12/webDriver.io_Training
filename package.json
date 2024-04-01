@@ -1,0 +1,11 @@
+{
+  "name": "webdriver.io_training",
+  "version": "1.0.0",
+  "description": "Learning JS for automation",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash S",
+  "license": "ISC"
+}
